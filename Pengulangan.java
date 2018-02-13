@@ -13,7 +13,7 @@ public class Pengulangan {
 				}
 			}
 		
-		for (int i = 0; i <= 100; i++)
+		for (int i = 1; i <= 100; i++)
 			if (i % 10 == 0) {
 				System.out.println(i + " Aldi Rahman");
 			}else {
